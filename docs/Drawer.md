@@ -1,4 +1,4 @@
-# [Drawer](https://material.io/guidelines/patterns/navigation-drawer.html)
+# [Drawer](https://material.io/design/components/navigation-drawer.html)
 
 ### Usage
 
